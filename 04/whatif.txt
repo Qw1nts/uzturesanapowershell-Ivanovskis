@@ -1,0 +1,8 @@
+What if: Performing the operation "Start-Service" on target "AppX Deployment Service (AppXSVC) (AppXSvc)".
+What if: Performing the operation "Start-Service" on target "ASUS Update Service (asus) (asus)".
+What if: Performing the operation "Start-Service" on target "AsusUpdateCheck (AsusUpdateCheck)".
+What if: Performing the operation "Start-Service" on target "Microsoft Edge Update Service (edgeupdate) (edgeupdate)".
+What if: Performing the operation "Start-Service" on target "Google Updater Internal Service (GoogleUpdaterInternalService157.0.8089.0) (GoogleUpdaterInternalService157.0.8089.0)".
+What if: Performing the operation "Start-Service" on target "Google Updater Service (GoogleUpdaterService157.0.8089.0) (GoogleUpdaterService157.0.8089.0)".
+What if: Performing the operation "Start-Service" on target "Downloaded Maps Manager (MapsBroker)".
+What if: Performing the operation "Start-Service" on target "Software Protection (sppsvc)".

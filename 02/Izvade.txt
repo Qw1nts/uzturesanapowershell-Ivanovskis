@@ -1,0 +1,12 @@
+Procesa nosaukums    Id Atmiņa (MB)
+-----------------    -- -----------
+GameManager       18600       265.5
+chrome             7352       294.1
+steamwebhelper    14092       308.9
+MsMpEng            4876       344.3
+chrome            18244       369.7
+chrome            12096         432
+Discord           17936       491.9
+explorer           9844       573.7
+steamwebhelper    11476       574.4
+chrome             1708       630.9
