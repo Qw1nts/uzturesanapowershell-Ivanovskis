@@ -1,3 +1,0 @@
-Kļūdu skaits pēdējajās 48h : 20
-Visbiežākais avots         : VBoxNetLwf
-Biežākā avota kļūdu skaits : 5
