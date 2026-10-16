@@ -1,0 +1,13 @@
+Aktīvo procesu skaits (1. uzd.) : 173
+Strādājošie servisi (3. uzd.)   : 104
+Apturētie servisi (3. uzd.)     : 212
+Kļūdu skaits 48h (5. uzd.)      : 12
+Disku dati (7. uzd.)            : C: - Brīva vieta: 31.42 GB; D: - Brīva vieta: 64.45 GB
+
+
+
+
+
+SECINĀJUMI PAR SKAITĻU ATŠĶIRĪBĀM:
+Aktīvo procesu skaits (no 1. uzd.) un kļūdu skaits žurnālā (no 5. uzd.) var atšķirties no iepriekšējām reizēm, jo sistēma nepārtraukti mainās — fona procesi tiek palaisti un izslēgti, kā arī laika gaitā var būt reģistrēti jauni sistēmas notikumi.
+Servisu skaitļi (no 3. uzd.) un disku brīvā vieta (no 7. uzd.) lielākoties paliek nemainīgi vai var nedaudz atšķirties, ja kopš iepriekšējās pārbaudes ir notikušas failu lejupielādes vai sistēmas atjauninājumi.
