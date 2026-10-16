@@ -1,4 +1,0 @@
-Darbojošos servisu skaits : 104
-Apturēto servisu skaits   : 213
-Abu summa                 : 317
-Kopējais saraksta garums  : 317
