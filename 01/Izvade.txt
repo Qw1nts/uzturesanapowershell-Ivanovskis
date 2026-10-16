@@ -1,6 +1,0 @@
-Datora nosaukums             : DESKTOP-9VQK9LI
-Operētājsistēma              : Microsoft Windows 11 Pro
-Būvējuma numurs              : 26300
-PowerShell versija           : 5.1.26100.9444
-Pašreizējais datums un laiks : 10/13/2026 4:59:13 PM
-Aktīvo procesu skaits        : 177
