@@ -1,0 +1,7 @@
+Get-Service laiks (ms)     : 242.7772
+Get-CimInstance laiks (ms) : 796.739
+
+
+Secinājums: Get-Service bija ievērojami ātrāks par Get-CimInstance (attiecīgi ~243 ms pret ~797 ms).
+Get-Service strādā tieši ar Windows servisu kontrolieri un ir optimizēts konkrēti servisu vaicājumiem, savukārt Get-CimInstance izmanto vispārīgāku WMI/CIM infrastruktūru, kas prasa vairāk laika.
+Ikdienas skriptos šai nelielajai milisekundžu starpībai nav praktiskas nozīmes, bet tas parāda, ka specializētas komandas darbojas ātrāk.
